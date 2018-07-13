@@ -15,7 +15,7 @@ The Solarized Dark Higher Contrast theme deviates from the official color specs.
 ![Solarized Dark](/img/solarized-dark.png?raw=true)
 ![Solarized Dark Settings](/img/solarized-dark-settings.png?raw=true)
 
-#### Solarized Dark Higher contrast
+#### Solarized Dark Higher Contrast
 ![Solarized Dark Higher Contrast](/img/solarized-dark-higher-contrast.png?raw=true)
 ![Solarized Dark Higher Contrast Settings](/img/solarized-dark-higher-contrast-settings.png?raw=true)
 
