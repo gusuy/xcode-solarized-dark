@@ -10,7 +10,6 @@ The Solarized Dark theme follows the official color scheme.
 The Solarized Dark Higher Contrast theme deviates from the official color specs. I kept the background colors the same, but lightened all text fonts for slightly more contrast.
 
 ## Screenshots
-***
 
 #### Solarized Dark
 ![Solarized Dark](/img/solarized-dark.png?raw=true)
@@ -21,13 +20,11 @@ The Solarized Dark Higher Contrast theme deviates from the official color specs.
 ![Solarized Dark Higher Contrast Settings](/img/solarized-dark-higher-contrast-settings.png?raw=true)
 
 ## Prerequisites
-***
 
 * Xcode 8 or 9  
 .xccolortheme files aren't compatible with older versions of Xcode.
 
 ## Installation
-***
 
 #### Step 1
 
@@ -53,7 +50,6 @@ The Solarized Dark Higher Contrast theme deviates from the official color specs.
 
 
 ## Acknowledgments
-***
 
 * Other Solarized Xcode ports:
     * [stackia](https://github.com/stackia/solarized-xcode)
